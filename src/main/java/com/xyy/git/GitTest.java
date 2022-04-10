@@ -10,7 +10,8 @@ public class GitTest {
 		System.out.println("git is so easy");
 		System.out.println("github is so noob");
 		System.out.println("gitee is so good");
-		System.out.println("gitee is so perfact");
+		System.out.println("gitee is so perfactaaa");
+
 
 	}
 }
