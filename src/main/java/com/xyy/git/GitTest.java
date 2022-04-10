@@ -8,5 +8,6 @@ package com.xyy.git;
 public class GitTest {
 	public static void main(String[] args) {
 		System.out.println("git is so easy");
+		System.out.println("github is so noob");
 	}
 }
