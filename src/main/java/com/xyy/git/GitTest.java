@@ -12,6 +12,8 @@ public class GitTest {
 		System.out.println("gitee is so good");
 		System.out.println("gitee is so perfactaaa");
 		System.out.println("gitee is so fantastic");
+		System.out.println("push test");
+
 
 
 	}
