@@ -13,7 +13,8 @@ public class GitTest {
 		System.out.println("gitee is so perfactaaa");
 		System.out.println("gitee is so fantastic");
 		System.out.println("push test");
-
+		
+		System.out.println("pull test");
 
 
 	}
